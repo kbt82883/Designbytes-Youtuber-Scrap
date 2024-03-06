@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "designbytes-youtuber-scrapper",
+  "private_key_id": "ed8096abff0d5d16301a8f94b4553807ab5209bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSHGK/sN3tKHvX\nwkJEhSiEzIYfYBRSmytociZuX4/SZg5tIO3b+mao0icGKykEPHkVEP3fGxtggcas\nil7gaqRnV5AmHHmq7SMqRPGJ/HqGusAf6bDDo9Xa5Wxn5rHhyHo58IK5xid1f+Xl\nZUhJ244L4QS1g3sM71/UM6ZOaCH2a7n0MiW4ZYAMUy6m7H7C//Nivc73X7iCyijv\nwiq19n8LTFkgNyLZP7Rdmgsb/2JAptmd7gc/WXgDSVfKBhBfPHTexli+ta76zhwU\noQ5ytxqE/Xhybia5c8RRTSSCBnMFHealjn3vESHEiPnMVvdZ2Ov03Ag4n4Yjz1Md\nRyhhVGbZAgMBAAECggEAE9LMSVAvXBML/isMlAjpLgBa7iZjPHj54ziT4il/eQca\neNbYwj6xhV+QgX88dzMabG+mODDHSDduTnSep3dATCTBi6r3mrYVcYVAMbfhuojv\nnAMxI4A3atfm/rWQFmCTEZjcyJjGu8oFn3tLEvbVQ88m4dZGG44RIUT/PZoLDEPp\nZdOBsiQhmDvXD+JsGPqX8FEfFqSi33RthhiDnXaGmGiVJ1LCZt3ogA0X2zMr1Nq/\nEWBqBsiyz++VfvaBoR44czJ+rRoOS1vECibTepIrl0yvj3UdbK4EkaCorscwpzZz\nK8gbRF9MfWbqvFaqQkRyoeE0vpVf4rmYwyUFHASUAQKBgQDvoMxnqj0yrwWDD0B8\nFeAZgPaD8Vt8J9U7h33Qv4sAkh0xcjui2fxRUTSkbnmwteP8eri1wvaTAlU6AFMh\nwt+WuLahwQqB7BP14ZjOoijUP/UTCBZH8a3V/RI2Uk6qtPSHyQkba6aCcvZOWrx+\n9vPqEnyO2NnSWj9owzD76wxA2QKBgQDgd1FZ1dD0XaCA+FDKtwhGpjAbSUPcIgQs\nsywcsDTR7rpbXSCo0yWP6Mv1RoXY9LIerrQLRRrnDC2InSkUZ+RH9zeUemoGDMS2\nA2JF3RgtrZJ6a8ugEIePA+Pj4+UkMu1qJ5UAdAMcvPwAYU4uxqpNoFfZ2ZKSZxki\nFF/WnPGWAQKBgQDQZTQ+12Ofh2ywvPvkrhWVuH0q5CUexXmA6uV1PI9DcM7oqKLK\nju8LPScd9WHpV1YtxgCLOkG8OeQqrAugKdzPNFbIN5zOvqPhS0/cLFR7uh+FbJwL\n91ep6QwEp/H4LaUXzbMY4LcPbbFdFTYm6NfZcjhW9qoAcTICBva7r3+ZiQKBgQCh\n5O0DwjdnSHAPFQoQa1rIuexQgdMz3kTsiH30YxJ1p505cD2yBjg9R0ZzrV20USh3\nAMJSrpDsu9fLhK6wTQ5U6XVo3bHCk0r9jAtBIGnj6CCRs1W2KLXc7I1dPG10Ylbi\nDZJmNUZZX+TR0Vy2WAtU2aUDNu2EMl/qOI+3FpMYAQKBgQDA8vn0kd9T7UOxJLBP\nXM/BW2Ktsy5FXMhuq/w8KFzHJGOIDHCA02+JqdQkl0SI5QK0mkFuSVmhQOc5JwvJ\nR748PEjIUpDFfswViG0Sc4Ce22IYm68yTevT6KxpVq1PKLtllQnFU+23x51wFpgK\nFBg3TEFX0oI0tOPWyWY+fcTUSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "designbytes-youtuber-scrapper@designbytes-youtuber-scrapper.iam.gserviceaccount.com",
+  "client_id": "106534151715258123226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/designbytes-youtuber-scrapper%40designbytes-youtuber-scrapper.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
